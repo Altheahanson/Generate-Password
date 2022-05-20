@@ -8,7 +8,7 @@ let allChar = "";
 
 
 
-// Assignment Code
+// selecting element
 let generateBtn = document.querySelector("#generate");
 function generatePassword() {
   console.log("Thanks for clicking!")
